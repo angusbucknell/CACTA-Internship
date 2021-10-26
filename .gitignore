@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+data/genomes/
+data/pbuck.Rdata
+results/packAligns/
+results/clusters/
+results/plots/Dendrograms/
